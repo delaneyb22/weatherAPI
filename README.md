@@ -29,6 +29,6 @@ I used HTML, CSS, and JavaScript
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
+- Add icons that correspond with the weather to appear 
 - Item 2
 - Item 3
